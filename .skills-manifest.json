@@ -1,0 +1,18 @@
+[
+  {
+    "skill": "web-design-guidelines",
+    "files": 1
+  },
+  {
+    "skill": "vercel-react-best-practices",
+    "files": 75
+  },
+  {
+    "skill": "vercel-composition-patterns",
+    "files": 13
+  },
+  {
+    "skill": "vercel-react-view-transitions",
+    "files": 7
+  }
+]
