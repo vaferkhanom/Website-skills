@@ -1,18 +1,722 @@
 [
   {
-    "skill": "web-design-guidelines",
-    "files": 1
+    "skill": "3d-web-experience",
+    "category": "3D",
+    "files": 1,
+    "description": "Expert in building 3D experiences for the web - Three"
   },
   {
-    "skill": "vercel-react-best-practices",
-    "files": 75
+    "skill": "add-mouse-driven-orbit",
+    "category": "3D",
+    "files": 8,
+    "description": "Add restrained mouse-driven orbit and parallax depth to a Three"
+  },
+  {
+    "skill": "add-shader-cursor-trail",
+    "category": "Effects",
+    "files": 7,
+    "description": "Add the Shaders WebGPU mouse effect used for the Tidal Commons hero: a white twinkling halftone cursor trail d"
+  },
+  {
+    "skill": "agency-grid-layout-minimal",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Create a minimal agency design system with a disciplined editorial grid, oversized typography, quiet uppercase"
+  },
+  {
+    "skill": "ambient-section-particles",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Add a restrained particle atmosphere inside one section with configurable shapes, density, gravity, wind, sway"
+  },
+  {
+    "skill": "animate",
+    "category": "Animation",
+    "files": 2,
+    "description": "Build an animation from scratch, making the decisions in the order that determines whether it feels right \u2014 sh"
+  },
+  {
+    "skill": "animation-on-scroll",
+    "category": "Animation",
+    "files": 4,
+    "description": "Create an on-scroll animation trigger using IntersectionObserver with Tailwind-friendly animation classes and "
+  },
+  {
+    "skill": "animation-systems",
+    "category": "Animation",
+    "files": 4,
+    "description": "Use when designing or implementing product-grade web motion like Stripe, Linear, Apple, and Vercel"
+  },
+  {
+    "skill": "animation-vocabulary",
+    "category": "Animation",
+    "files": 1,
+    "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term"
+  },
+  {
+    "skill": "atmosphere-background",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a dark atmospheric background with drifting vertical light folds, screen-blended glow, and a concentrat"
+  },
+  {
+    "skill": "aura-asset-images",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Use when you need high-quality stock-style images from Aura Assets (aura"
+  },
+  {
+    "skill": "background-grid-webgl",
+    "category": "Effects",
+    "files": 9,
+    "description": "Create a perspective WebGL background grid with fading lines, subtle particle haze, slow forward drift, and ge"
+  },
+  {
+    "skill": "beam-glow-states",
+    "category": "Effect/UI",
+    "files": 3,
+    "description": "Create React loading, processing, selected, current, focus, and pressed states with the border-beam package's "
+  },
+  {
+    "skill": "beautiful-shadows",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Apply exact Tailwind arbitrary shadow utilities for polished, layered neutral elevation"
+  },
+  {
+    "skill": "better-accessibility",
+    "category": "UI polish",
+    "files": 9,
+    "description": "Accessibility engineering for product interfaces, from focus states and keyboard support to ARIA, forms, and s"
+  },
+  {
+    "skill": "better-colors",
+    "category": "Colors",
+    "files": 9,
+    "description": "Color systems for digital products, from building and naming a palette to applying it with meaning and verifyi"
+  },
+  {
+    "skill": "better-interface",
+    "category": "UI polish",
+    "files": 2,
+    "description": ">-"
+  },
+  {
+    "skill": "better-layout",
+    "category": "Layout",
+    "files": 5,
+    "description": "Layout structure for web interfaces, from grouping and alignment to reading order, progressive disclosure, and"
+  },
+  {
+    "skill": "better-typography",
+    "category": "Typography",
+    "files": 9,
+    "description": "Web typography from choosing fonts to spacing, wrapping and accessibility"
+  },
+  {
+    "skill": "better-ui",
+    "category": "UI polish",
+    "files": 9,
+    "description": "Design engineering principles for making interfaces feel polished"
+  },
+  {
+    "skill": "better-writing",
+    "category": "Copy",
+    "files": 3,
+    "description": ">-"
+  },
+  {
+    "skill": "blue-cloudy-clean-modern",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Create a clean modern design system with a luminous blue sky atmosphere, soft drifting cloud light, minimal wh"
+  },
+  {
+    "skill": "blue-laser-clean-glass-layout",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a clean dark glass layout system with a thin blue laser atmosphere, frosted premium shells, and polishe"
+  },
+  {
+    "skill": "book-serif-index",
+    "category": "Effect/UI",
+    "files": 7,
+    "description": "Create an archival book-reader design system with serif-led pages, mono index navigation, aged paper surfaces,"
+  },
+  {
+    "skill": "bright-green-tech-system-webgl",
+    "category": "Layout",
+    "files": 4,
+    "description": "Create a bright-green technical design system with structured split layouts, hard-framed dark surfaces, mono u"
+  },
+  {
+    "skill": "build-awwwards-quality-sites",
+    "category": "Effect/UI",
+    "files": 2,
+    "description": "Art-direct and implement distinctive, motion-rich marketing, editorial, portfolio, and landing websites with o"
+  },
+  {
+    "skill": "build-interactive-particle-trail",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Build a cursor or touch particle interaction that emits by distance along the traveled segment into a recycled"
+  },
+  {
+    "skill": "build-threejs-scroll-worlds",
+    "category": "3D",
+    "files": 26,
+    "description": "Build rich, scroll-controlled real-time Three"
+  },
+  {
+    "skill": "build-wireframe-scan-reveal",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Reveal Three"
+  },
+  {
+    "skill": "cinematic-gsap-lenis-motion-system",
+    "category": "Animation",
+    "files": 5,
+    "description": "Create premium cinematic web motion systems with GSAP, ScrollTrigger, and Lenis"
+  },
+  {
+    "skill": "cinematic-scroll-storytelling",
+    "category": "Animation",
+    "files": 5,
+    "description": "Create cinematic scroll-driven landing pages with Lenis smooth scrolling, GSAP ScrollTrigger, scroll-linked pr"
+  },
+  {
+    "skill": "clean-minimal-beige-light-mode",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Create a clean minimal beige light-mode design system with warm neutral shells, quiet process grids, restraine"
+  },
+  {
+    "skill": "cobejs",
+    "category": "3D",
+    "files": 5,
+    "description": "Use when adding a lightweight interactive globe with cobe (canvas setup, markers, interaction, performance, in"
+  },
+  {
+    "skill": "company-logos",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Use Iconify Simple Icons logos (64x64) instead of text logos"
+  },
+  {
+    "skill": "container-lines",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Add vertical container-size guide lines with mini corner squares for precise, structured web layouts"
+  },
+  {
+    "skill": "corner-diagonals",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Apply diagonal-cut corners and chamfered edges to buttons, cards, panels, and container shells"
+  },
+  {
+    "skill": "corner-lasers",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Create a corner-anchored laser composition with thin beams, a bright emitter node, bloom, and atmospheric glow"
+  },
+  {
+    "skill": "css-alpha-masking",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Apply CSS alpha masking with linear-gradient for horizontal or vertical edge fades (mask-image and -webkit-mas"
+  },
+  {
+    "skill": "css-border-gradient",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Apply subtle gradient-border treatments for premium web surfaces"
+  },
+  {
+    "skill": "dark-blue-contrasting-clean",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a dark-blue clean design system with strong contrast, cobalt gradient feature blocks, crisp framed stru"
+  },
+  {
+    "skill": "dark-glass-clean-layout",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a dark glass layout system with frosted premium shells, clean multi-column workspace structure, floatin"
+  },
+  {
+    "skill": "design-first-ui-prompting",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Use when you need design-first, spec-driven, skimmable prompts for UI generation"
+  },
+  {
+    "skill": "dither-background",
+    "category": "Effects",
+    "files": 5,
+    "description": "Create a dark monochrome procedural background with enlarged square pixels and visible Bayer-style ordered dit"
+  },
+  {
+    "skill": "dither-laser-dark-mode",
+    "category": "Effect/UI",
+    "files": 13,
+    "description": "Create a dark premium design system that combines near-black surfaces, subtle ordered-dither texture, and a th"
+  },
+  {
+    "skill": "documentary-brutalist-agency",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Create or redesign creative agency, production studio, architecture, culture, and portfolio websites with bill"
+  },
+  {
+    "skill": "editorial-portfolio-chapters",
+    "category": "Effect/UI",
+    "files": 20,
+    "description": "Create or redesign creative-studio, agency, photographer, artist, and portfolio websites where project work le"
+  },
+  {
+    "skill": "editorial-service-booking",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Create or redesign appointment-based service websites for salons, barbers, spas, wellness studios, clinics, an"
+  },
+  {
+    "skill": "editorial-tech",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Blend editorial magazine composition with precision product-tech detailing using asymmetrical grids, cinematic"
+  },
+  {
+    "skill": "falling-leaves",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Build falling leaves that read as leaves, with each one tumbling on its own axis so it presents a face, thins "
+  },
+  {
+    "skill": "find-animation-opportunities",
+    "category": "Animation",
+    "files": 1,
+    "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't"
+  },
+  {
+    "skill": "framed-grid-layout",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Create minimal framed grid layouts with thin visible boundary lines, L-shaped corner brackets, subtle diagonal"
+  },
+  {
+    "skill": "framed-tech-dark-border-gradient",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a framed dark technical design system with border-gradient shells, asymmetrical grid panels, mono utili"
+  },
+  {
+    "skill": "funky-purple-container-tech",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a dark container-led technical design system with fuchsia-purple accents, layered rounded shells, crisp"
+  },
+  {
+    "skill": "glass-dark-mode-clock",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Create a dark glass design system with frosted shells, soft beam grids, circular clock-like calibration dials,"
+  },
+  {
+    "skill": "glass-dark-ui",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Build dark-mode glassmorphism interfaces with readable contrast, frosted surfaces, and gradient borders using "
+  },
+  {
+    "skill": "globe-gl",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Use when implementing globe"
+  },
+  {
+    "skill": "globe-particles",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Create a globe-like 3D particle visualization with a dense luminous spherical core and thinner orbital ring or"
+  },
+  {
+    "skill": "gooey-blob-system",
+    "category": "Effect/UI",
+    "files": 9,
+    "description": "Create a gooey blob system using SVG filters where multiple shapes merge into a single fluid form"
+  },
+  {
+    "skill": "gradient",
+    "category": "Effects",
+    "files": 2,
+    "description": "Smooth color transitions and gradient-rich surfaces for modern, playful interfaces with visual depth"
+  },
+  {
+    "skill": "gsap",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Use when you need to add or debug professional web animations with GSAP (timelines, ScrollTrigger, stagger, tr"
+  },
+  {
+    "skill": "gsap-framer-scroll-animation",
+    "category": "Animation",
+    "files": 3,
+    "description": ">-"
+  },
+  {
+    "skill": "gsap-scrolltrigger-storytelling",
+    "category": "Effect/UI",
+    "files": 7,
+    "description": "Build cinematic sticky product storytelling with GSAP ScrollTrigger, progressive UI reveals, scroll-synced ani"
+  },
+  {
+    "skill": "high-contrast-skeuomorphic-clean",
+    "category": "Effect/UI",
+    "files": 10,
+    "description": "Create a high-contrast clean skeuomorphic design system with molded dark surfaces, crisp light separation, tac"
+  },
+  {
+    "skill": "image-first-grid-layout",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Create an image-led grid design system with full-bleed photography, structural guide lines, anchored content b"
+  },
+  {
+    "skill": "impeccable",
+    "category": "Design director",
+    "files": 152,
+    "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimiz"
+  },
+  {
+    "skill": "implement-fog-of-war",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Implement, tune, debug, or validate soft wall-aware fog of war and gameplay perception in Three"
+  },
+  {
+    "skill": "improve-animations",
+    "category": "Animation",
+    "files": 3,
+    "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and"
+  },
+  {
+    "skill": "interface-review",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": ">-"
+  },
+  {
+    "skill": "iterate-until-verified",
+    "category": "Effect/UI",
+    "files": 3,
+    "description": "Apply a prompt-agnostic execution and verification loop to any substantial task while preserving the original "
+  },
+  {
+    "skill": "landing-page",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Use when designing or rewriting a high-converting landing page (single-offer page) for SaaS/apps/services"
+  },
+  {
+    "skill": "light-mode-paper-technical",
+    "category": "Effect/UI",
+    "files": 9,
+    "description": "Create a light-mode technical design system with warm paper surfaces, dark outer framing, subtle diagonal text"
+  },
+  {
+    "skill": "liquid-metal-border",
+    "category": "Effect/UI",
+    "files": 3,
+    "description": "Add and tune animated liquid-metal WebGL borders with the React `metal-fx` package"
+  },
+  {
+    "skill": "marquee-loop",
+    "category": "Effect/UI",
+    "files": 12,
+    "description": "Apply seamless infinite marquee loops using duplicated items"
+  },
+  {
+    "skill": "masked-reveal",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Create masked staggered word reveals on scroll with GSAP ScrollTrigger"
+  },
+  {
+    "skill": "matterjs",
+    "category": "Effects",
+    "files": 4,
+    "description": "Use when implementing 2D physics interactions with Matter"
+  },
+  {
+    "skill": "mesh-gradient-dark-blue-clean",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Create a futuristic, premium, clean dark-blue mesh-gradient design system across background rendering, hero sh"
+  },
+  {
+    "skill": "nested-container-clean-agency",
+    "category": "Effect/UI",
+    "files": 9,
+    "description": "Create a clean agency design system built from nested containers, with an outer editorial shell, inset dark fe"
+  },
+  {
+    "skill": "nested-container-frames",
+    "category": "Effect/UI",
+    "files": 9,
+    "description": "Create a container-in-container layout system using nested frames"
+  },
+  {
+    "skill": "number-details",
+    "category": "Effect/UI",
+    "files": 13,
+    "description": "Add decorative 01, 02, 03 numeric detail markers"
+  },
+  {
+    "skill": "optimize-web-animations",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Profile, audit, and optimize frontend page performance with emphasis on animation work, memory-leak risks, lon"
+  },
+  {
+    "skill": "orange-clean-paper-saas",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Create a clean paper-toned SaaS design system with warm neutrals, orange accent signals, rounded premium forms"
+  },
+  {
+    "skill": "performance-profiling",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Guide performance profiling for Apple platform apps with Instruments, Xcode diagnostics, and MetricKit"
+  },
+  {
+    "skill": "pointer-trail-emitter",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Build a cursor trail whose spacing stays constant at any hand speed, by emitting motes per unit of distance tr"
+  },
+  {
+    "skill": "pricing-page",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Use when designing or rewriting a high-converting SaaS pricing page (structure, plan design, copywriting, SEO/"
+  },
+  {
+    "skill": "product-proof-saas",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Create or redesign SaaS and AI product landing pages where a real workflow, interface, or deterministic demo i"
+  },
+  {
+    "skill": "progressive-blur",
+    "category": "Effect/UI",
+    "files": 21,
+    "description": "Create a layered CSS progressive blur (top or bottom) using multiple backdrop-filter masks for depth and softn"
+  },
+  {
+    "skill": "reveal-hover-effect",
+    "category": "Effect/UI",
+    "files": 9,
+    "description": "Build cursor-following spotlight reveals that expose a second aligned image through a soft radial mask"
+  },
+  {
+    "skill": "review-animations",
+    "category": "Animation",
+    "files": 2,
+    "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering phi"
+  },
+  {
+    "skill": "scroll-progress-timeline",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Turn any ordered process into a data-driven vertical or horizontal scroll story with a base line, progress fil"
+  },
+  {
+    "skill": "scroll-scrubbed-visual-sequence",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Build reversible scroll-controlled visual transformations with a pinned or sticky stage, normalized progress, "
+  },
+  {
+    "skill": "scroll-scrubbed-word-reveal",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Reveal marked-up text word by word as scroll progress advances, while preserving semantic inline links, emphas"
+  },
+  {
+    "skill": "scroll-world-storytelling",
+    "category": "Animation",
+    "files": 19,
+    "description": "Turn an article, case study, brand narrative, product journey, or long-form story into a cinematic scroll-driv"
+  },
+  {
+    "skill": "shaders-cursor-ripples",
+    "category": "Effects",
+    "files": 5,
+    "description": "Add cursor-following fluid WebGPU distortion over an existing image with the Shaders library's ImageTexture an"
+  },
+  {
+    "skill": "skeuomorphic-ui",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Create skeuomorphic web UI surfaces with layered gradients, stacked inner and outer shadows, reflective gradie"
+  },
+  {
+    "skill": "solar-duotone-bold",
+    "category": "Effect/UI",
+    "files": 9,
+    "description": "Use Iconify Solar Duotone Bold icon style"
+  },
+  {
+    "skill": "split-layout-technical",
+    "category": "Effect/UI",
+    "files": 11,
+    "description": "Create a technical split-screen design system with dual panels, fine frame lines, mono metadata, quiet editori"
+  },
+  {
+    "skill": "staggered-word-reveal",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create subtle editorial word-by-word text reveal animations where each word fades and rises into place once it"
+  },
+  {
+    "skill": "stitched-full-page-capture",
+    "category": "Effect/UI",
+    "files": 8,
+    "description": "Capture or repair reliable full-page screenshots for lazy-loaded, scroll-animated, Framer, WebGL/canvas, or re"
+  },
+  {
+    "skill": "tailwind-4-docs",
+    "category": "Tailwind",
+    "files": 5,
+    "description": "Comprehensive Tailwind CSS v4 documentation snapshot and workflow guidance"
+  },
+  {
+    "skill": "tailwind-design-system",
+    "category": "Tailwind",
+    "files": 3,
+    "description": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsive pattern"
+  },
+  {
+    "skill": "tailwindcss",
+    "category": "Tailwind",
+    "files": 5,
+    "description": "Use when designing/implementing UI with Tailwind CSS (layout, typography, responsive, theming, component patte"
+  },
+  {
+    "skill": "tech-green-dark-mode-modern",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Create a modern dark-mode technical design system with matte-black surfaces, emerald signal accents, mono syst"
+  },
+  {
+    "skill": "technical-wireframe-info-layout",
+    "category": "Effect/UI",
+    "files": 6,
+    "description": "Create a monochrome technical wireframe design system with exploded 3D structure, connector annotations, spars"
+  },
+  {
+    "skill": "thinking-orbs",
+    "category": "Effect/UI",
+    "files": 3,
+    "description": "Add accessible animated AI loading and agent-status indicators with the React thinking-orbs library"
+  },
+  {
+    "skill": "threejs",
+    "category": "3D",
+    "files": 5,
+    "description": "Use when building or debugging interactive 3D scenes on the web with Three"
+  },
+  {
+    "skill": "threejs-animation",
+    "category": "3D",
+    "files": 1,
+    "description": "Three"
+  },
+  {
+    "skill": "threejs-landscape",
+    "category": "3D",
+    "files": 6,
+    "description": "Build a live Three"
+  },
+  {
+    "skill": "threejs-towers",
+    "category": "3D",
+    "files": 6,
+    "description": "Generate architecture procedurally in Three"
+  },
+  {
+    "skill": "threejs-weather",
+    "category": "3D",
+    "files": 6,
+    "description": "Put weather into a Three"
+  },
+  {
+    "skill": "unicorn-studio",
+    "category": "Effect/UI",
+    "files": 5,
+    "description": "Use when embedding and customizing Unicorn Studio interactive animations on the web (embed, responsive sizing,"
+  },
+  {
+    "skill": "unsplash-asset-images",
+    "category": "Effect/UI",
+    "files": 4,
+    "description": "Use when you need to pick high-quality Unsplash images for product/design assets (avatars, headshots, portrait"
+  },
+  {
+    "skill": "vantajs",
+    "category": "Effects",
+    "files": 5,
+    "description": "Use when adding animated WebGL background effects with Vanta"
   },
   {
     "skill": "vercel-composition-patterns",
-    "files": 13
+    "category": "React/Next.js",
+    "files": 13,
+    "description": ""
+  },
+  {
+    "skill": "vercel-react-best-practices",
+    "category": "React/Next.js",
+    "files": 75,
+    "description": "React and Next"
   },
   {
     "skill": "vercel-react-view-transitions",
-    "files": 7
+    "category": "Transitions",
+    "files": 7,
+    "description": "Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTransition>`"
+  },
+  {
+    "skill": "web-component-design",
+    "category": "Components",
+    "files": 4,
+    "description": "Master React, Vue, and Svelte component patterns including CSS-in-JS, composition strategies, and reusable com"
+  },
+  {
+    "skill": "web-design-guidelines",
+    "category": "Design review",
+    "files": 1,
+    "description": "Review UI code for Web Interface Guidelines compliance"
+  },
+  {
+    "skill": "webgl-3d-object",
+    "category": "3D",
+    "files": 11,
+    "description": "Create a real 3D WebGL object with geometric mesh depth, physically based material, directional and ambient li"
+  },
+  {
+    "skill": "webgl-landing-steering",
+    "category": "3D",
+    "files": 5,
+    "description": "Use when creating or refining WebGL-heavy landing pages and you need to steer toward a specific visual outcome"
+  },
+  {
+    "skill": "webgl-laser",
+    "category": "Effects",
+    "files": 9,
+    "description": "Create a fixed full-screen WebGL laser background effect with a thin white-hot vertical core, restrained brand"
   }
 ]
